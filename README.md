@@ -72,6 +72,6 @@ To begin, you'll need to start the server to listen for incoming file transfer r
 ## 💻📥 Client GUI - Receiver's Side
 ![Image](https://github.com/user-attachments/assets/5902ad0b-1723-4fae-b9fa-525a63f5b06e)
 
-##🗄️💾 Databases
+## 🗄️💾 Databases
 ![image](https://github.com/user-attachments/assets/1021f545-a8a9-4f59-885c-ad0632bc471c)
 ![image](https://github.com/user-attachments/assets/bf7f6fdc-4f4f-45ce-bb40-1395b664ebc4)
